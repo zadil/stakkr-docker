@@ -13,7 +13,7 @@ Stakkr is just a small set of files that sets up a local Docker-based dev enviro
 This is all there is to using it:
 
 ```bash
-composer require composer require stakkr/docker-symfony
+composer require stakkr/docker-symfony
 
 
 # Run this once to initialize project
