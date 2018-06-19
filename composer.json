@@ -1,0 +1,19 @@
+{
+  "name": "docker-symfony",
+  "description": "Simple Docker dev environments",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zouhal Adil",
+      "email": "z.adil69@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Stakkr\\": "src/"
+    }
+  },
+  "require": {},
+  "version": "1.0.0",
+  "minimum-stability": "dev"
+}
