@@ -123,7 +123,7 @@ if [ $# -gt 0 ]; then
     elif [ "$1" == "stop" ]; then
         $COMPOSE down
 
-    # If "art" is used, pass-thru to "artisan"
+    # If "console" is used, pass-thru to "bin/console"
     # inside a new container
     elif [ "$1" == "bin/console" ] || [ "$1" == "console" ]; then
         shift 1
