@@ -1,5 +1,5 @@
 {
-  "name": "docker-symfony",
+  "name": "stakkr/docker-symfony",
   "description": "Simple Docker dev environments",
   "license": "MIT",
   "authors": [
